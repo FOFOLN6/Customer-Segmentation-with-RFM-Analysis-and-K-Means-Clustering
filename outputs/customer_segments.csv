@@ -1,0 +1,21 @@
+CustomerID,Recency,Frequency,MonetaryValue,Cluster,Segment Name
+1,10,25,500,0,At-Risk
+2,5,40,1000,2,Regular
+3,15,10,250,0,At-Risk
+4,3,60,1500,2,Regular
+5,8,35,800,2,Regular
+6,20,15,300,0,At-Risk
+7,2,70,1800,1,VIP
+8,6,45,900,2,Regular
+9,18,20,400,0,At-Risk
+10,1,80,2000,1,VIP
+11,4,55,1100,2,Regular
+12,12,30,600,0,At-Risk
+13,2,75,1700,1,VIP
+14,7,50,950,2,Regular
+15,16,22,350,0,At-Risk
+16,1,85,2200,1,VIP
+17,3,65,1300,2,Regular
+18,9,28,550,0,At-Risk
+19,2,90,2400,1,VIP
+20,5,60,1200,2,Regular
